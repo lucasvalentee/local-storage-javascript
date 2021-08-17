@@ -1,4 +1,5 @@
-# localstorage-aula-dw3
-Atividade realizada para testar a inserção e remoção de dados no local storage. 🔥
-- Foi utilizado o JQuery para realizar o comportamento da tela. 
-- Foi utilizado o Bootstrap para estilizar o layout e criar duas telas "Modal", sendo uma para visualização da tabela e outra de confirmação para apagar os registros.
+# About
+
+Project to perform the insertion and removal of data on the storage site. Developed during a university course.
+- JQuery was used to perform the screen behavior.
+- Bootstrap was used to style the layout and create two "Modal" screens, one for viewing the table and the other for confirming to delete the records.
